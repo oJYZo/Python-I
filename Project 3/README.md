@@ -6,6 +6,8 @@
 - Build network
 - Define network
 - Compute the distance to hub cities
+- import the CSV file
+- Build the graph
 - Compute the least cost
 
 # Part B
