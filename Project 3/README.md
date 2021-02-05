@@ -1,4 +1,4 @@
-# Trucking Network
+# Trucking Network -- Dijkstra’s algorithm
 
 # Process
 - Import Data: add new cities in the file
