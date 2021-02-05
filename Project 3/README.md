@@ -1,6 +1,6 @@
 # Trucking Network -- Dijkstra’s algorithm
 
-# Process
+# Processes
 - Import Data: add new cities in the file
 - Build network
 - Define network
@@ -11,4 +11,6 @@
 - Compute the least cost
 
 # Description
-This project mainly used Dijkstra’s algorithm as finding the least distance between two cities where the weights are the distances between cities.
+This project mainly used Dijkstra’s algorithm as finding the least distance from a start to a destination city. And the important critira for this shortest distance is any path must go through both New Orleans and St. Louis. The cities
+
+
