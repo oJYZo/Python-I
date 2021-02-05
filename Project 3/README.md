@@ -13,4 +13,3 @@
 # Description
 This project mainly used Dijkstra’s algorithm as finding the least distance from a start to a destination city. And the important critira for this shortest distance is any path must go through both New Orleans and St. Louis. The cities
 
-
