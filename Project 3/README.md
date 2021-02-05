@@ -1,6 +1,6 @@
-# Truck Networking
-# Part A
+# Trucking Network
 
+# Process
 - Import Data: add new cities in the file
 - Build network
 - Define network
@@ -10,5 +10,5 @@
 - uncomment to print the graph
 - Compute the least cost
 
-# Part B
+# Description
 This project mainly used Dijkstra’s algorithm as finding the least distance between two cities where the weights are the distances between cities.
