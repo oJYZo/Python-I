@@ -11,5 +11,6 @@
 - Compute the least cost
 
 # Description
-This project mainly used Dijkstra’s algorithm as finding the least distance from a start to a destination city. And the important critira for this shortest distance is any path must go through both New Orleans and St. Louis. The cities
+This project mainly used Dijkstra’s algorithm as finding the least distance from a start to a destination city. And the important critira for this shortest distance is any path must go through both New Orleans and St. Louis. The cities network showed as following 
 
+https://github.com/z0o0z/Python-and-Application-to-Business-Analytics/blob/main/Project%203/image.png
