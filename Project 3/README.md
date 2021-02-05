@@ -8,6 +8,7 @@
 - Compute the distance to hub cities
 - import the CSV file
 - Build the graph
+- uncomment to print the graph
 - Compute the least cost
 
 # Part B
